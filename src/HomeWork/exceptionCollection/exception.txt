@@ -7,9 +7,9 @@
     10
     숫자로 변환할 수 없음
 7.
-    1) return message;
-    2) return message;
-    3) throws NotExistIDException
+    1) super(message);
+    2) super(message);
+    3) throws NotExistIDException, WrongPasswordException
     4) throw new NotExistIDException("아이디가 존재하지 않습니다.");
     5) throw new WrongPasswordException("패스워드가 틀립니다.");
 8.
