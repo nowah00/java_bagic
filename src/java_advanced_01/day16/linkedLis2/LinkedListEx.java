@@ -1,4 +1,4 @@
-package java_advanced_01.day16.linkedList;
+package java_advanced_01.day16.linkedLis2;
 
 public class LinkedListEx {
 
