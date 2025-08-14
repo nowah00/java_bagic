@@ -42,7 +42,7 @@
 
     while(iterator.hasNext()){      //hasNext() 주머니에 가져올 객체가 있는지 여부 확인
         E e = iterator.next();      //next() 객체를 가져온다.
-                      .remove();
+                      .remove();    //객체 삭제
     }
 
 
